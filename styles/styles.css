@@ -136,17 +136,19 @@ background-color: #F6F6FA;
 }
 
 .about-me-description{
-    color: #595959;
-    font-size: 14px;
-    font-style: normal;
-    font-weight: 400;
+    color: #070a3d7e;
+    font-size: 19px;
+    font-style:inherit;
+    font-weight: 450;
     line-height: 24px; /* 171.429% */
     margin-top: -15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .projects-section{
     margin-top: 40px;
 }
+
 
 .projects-header{
     font-size: 22px;
